@@ -1,18 +1,17 @@
-# 🗄️ Scripts SQL - Banco de Dados
+# 📊 Inteligência de Dados & Queries SQL
 
-Este repositório reúne scripts e consultas (queries) desenvolvidos para a manipulação, organização e análise de dados. É aqui que demonstro minha base em **Banco de Dados Relacionais (MySQL/PostgreSQL)**.
+Este repositório centraliza minha expertise em Bancos de Dados Relacionais. Aqui demonstro como transformar dados brutos em informações estratégicas através de queries otimizadas e modelagem eficiente.
 
-## 🛠️ Habilidades Demonstradas:
-- **DML (Data Manipulation Language)**: Scripts para Inserir (INSERT), Atualizar (UPDATE) e Deletar (DELETE) dados com segurança.
-- **DQL (Data Query Language)**: Consultas complexas utilizando `SELECT`, `WHERE`, `JOINs`, `GROUP BY` e `ORDER BY`.
-- **DDL (Data Definition Language)**: Criação de tabelas (CREATE TABLE) e definição de relacionamentos.
-- **Modelagem de Dados**: Entendimento de chaves primárias (PK) e estrangeiras (FK).
+### 🚀 Aplicabilidade Profissional
+- **Para Desenvolvimento:** Criação de esquemas de banco de dados (DDL) e manipulação de registros (DML) com foco em performance.
+- **Para Suporte Técnico:** Habilidade avançada em realizar "Deep Dive" em bancos de dados para identificar falhas em registros e aplicar scripts de correção (Hotfixes).
+- **Para Analista de Dados:** Uso de Joins, Agregações e Subqueries para gerar relatórios de métricas de sucesso e comportamento do usuário.
 
-## 🚀 Por que isso é importante?
-Dominar SQL me permite atuar diretamente na causa raiz de problemas técnicos, realizando investigações em logs e tabelas de sistemas **ERP e PDV**, garantindo que a informação do cliente esteja sempre correta e integrada.
-
-## 📄 Como utilizar os scripts:
-Os arquivos `.sql` estão organizados por nível de complexidade. Podem ser executados em ferramentas como MySQL Workbench, Beekeeper Studio ou diretamente via terminal.
+### 🛠️ Tecnologias e Conceitos
+- **SGBDs:** MySQL / PostgreSQL.
+- **Conceitos:** Normalização de dados, Relacionamentos (1:N, N:N), Constraints e Integridade Referencial.
 
 ---
-🔍 **Foco em Dados:** Bruna Luiza - Analista de Suporte Técnico & Desenvolvedora Full Stack.
+### 🤝 Contato Profissional
+- **LinkedIn:** [goncalvesbrunal](https://www.linkedin.com/in/goncalvesbrunal/)
+- **E-mail:** [brunaluiza.contat@gmail.com](mailto:brunaluiza.contat@gmail.com)
